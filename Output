@@ -1,11 +1,1 @@
-from core.baseapp import BaseApp
-
-class MainApp(BaseApp):
-    def __init__(self):
-        self.books = []
-
-
-if __name__ == "__main__":
-    app = MainApp()
-    app.run()
-
+![Screenshot (85)](https://user-images.githubusercontent.com/56987138/72675330-81893a80-3ab4-11ea-8977-45afcb2d94a3.png)
